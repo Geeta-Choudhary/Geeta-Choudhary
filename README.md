@@ -1,51 +1,161 @@
-<h1 align="center">Choudhary Geeta Gamnaram</h1>
-<p align="center"><em>M.Sc. Computer Science | Fergusson College (Autonomous), Pune </em></p>
-
----
-
-## 👩‍💻 About Me
-
-Passionate about building impactful software solutions and continuously expanding my technical skill set. I enjoy collaborating on innovative projects and am eager to contribute to both academic and professional communities. Open to new opportunities and connections in the tech world.
-
-- 📧 Email: [geetachoudhary.fc@gmail.com](mailto:geetachoudhary.fc@gmail.com)
-- 📱 Phone: +91-7769852158
-- 🌐 [LinkedIn](https://www.linkedin.com/in/geeta-choudhary-a5710a337)
-
----
-
-## 🛠️ Technical Stack
-
-- **Programming:** Python, Java, C, JavaScript
-- **Web Development:** HTML, CSS, React.js, Node.js, Express, Flask, PHP
-- **Databases:** MySQL, PostgreSQL (PgSQL), MongoDB
-- **Tools & Platforms:** Git, GitHub, Postman, Vite, TailwindCSS, Machine Learning (ML) algorithms
-
----
-
-## 🏆 Projects
-
-### Placement Portal
-A comprehensive platform to streamline the placement process for students, administrators, and coordinators, featuring dedicated dashboards for each user role.
-- **Stack:** Python, Flask, MySQL, JavaScript, React.js, Vite
-
-### WeatherSphere
-A responsive weather forecasting application leveraging machine learning for real-time insights, with features like dark mode and live location-based updates.
-- **Stack:** React.js, TailwindCSS, JavaScript, Python, Flask, ML algorithms, External Weather API
-
-### FLEO (Financial Learning Evaluation and Optimization)
-A unified and secure platform for financial data integration, designed for professionals seeking efficient and data-driven financial management.
-- **Stack:** PHP, PgSQL, Python, HTML, CSS, JavaScript
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3494E6&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geeta-Choudhary&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geeta-Choudhary&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geeta-Choudhary&layout=compact&theme=radical"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%">
+</p>
+
+<br>
+
+<p align="center">
+  <b>M.Sc. Computer Science | Fergusson College, Pune (2025-2026)</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- Add more sections as you grow! -->
+## 👋 About Me
+
+- 📧 **Email:** [geetachoudhary.fc@gmail.com](mailto:geetachoudhary.fc@gmail.com)
+- 📱 **Phone:** +91-7769852158
+- 🎓 **Education:** M.Sc. (Computer Science), Fergusson College (Autonomous), Pune
+- 💼 **Interests:** Building scalable web applications, machine learning, and tech community engagement.
+- 🌱 **Currently learning:** Advanced machine learning, modern web frameworks.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/geeta-choudhary-a5710a337)
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65"/><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65"/><br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65"/><br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"/><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65"/><br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/><br>GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Placement Portal</h3>
+        <div align="center">  
+          <!-- Replace the repo link below with your actual repo link -->
+          <a href="https://github.com/Geeta-Choudhary/PlacementPortal" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=PlacementPortal&theme=react&hide_border=true" alt="Placement Portal" />
+          </a>
+          <br>
+          <p>
+            <strong>Python, Flask, MySQL, React.js, Vite</strong> <br>
+            A comprehensive platform to streamline placement processes for students and administrators.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">WeatherSphere</h3>
+        <div align="center">  
+          <!-- Replace the repo link below with your actual repo link -->
+          <a href="https://github.com/Geeta-Choudhary/WeatherSphere" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=WeatherSphere&theme=react&hide_border=true" alt="WeatherSphere" />
+          </a>
+          <br>
+          <p>
+            <strong>React.js, TailwindCSS, Flask, ML</strong> <br>
+            Real-time weather forecasting with machine learning and live updates.
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">FLEO</h3>
+        <div align="center">  
+          <!-- Replace the repo link below with your actual repo link -->
+          <a href="https://github.com/Geeta-Choudhary/FLEO" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=FLEO&theme=react&hide_border=true" alt="FLEO" />
+          </a>
+          <br>
+          <p>
+            <strong>PHP, PgSQL, Python, HTML, CSS, JavaScript</strong> <br>
+            Unified and secure platform for financial data integration and management.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <!-- Add another project or leave blank -->
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geeta-Choudhary&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+<p align="center">
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geeta-Choudhary&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect!</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/geeta-choudhary-a5710a337">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:geetachoudhary.fc@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Geeta-Choudhary">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Geeta-Choudhary&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
