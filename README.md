@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3494E6&center=true&vCenter=true&width=435&lines=Aspirinf+Software+Developer;Tech+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3494E6&center=true&vCenter=true&width=485&lines=Aspiring+Software+Developer;Tech+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -51,13 +51,7 @@
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65"/><br>React
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65"/><br>Node.js
-    </td>
-    <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"/><br>MySQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65"/><br>MongoDB
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/><br>GitHub
