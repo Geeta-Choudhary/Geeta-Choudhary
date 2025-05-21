@@ -80,20 +80,23 @@
           </p>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">WeatherSphere</h3>
-        <div align="center">  
-          <!-- Replace the repo link below with your actual repo link -->
-          <a href="https://github.com/Geeta-Choudhary/Weather-Prediction-App.git" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=WeatherSphere&theme=react&hide_border=true" alt="WeatherSphere" />
-          </a>
-          <br>
-          <p>
-            <strong>React.js, TailwindCSS, Flask, ML</strong> <br>
-            Real-time weather forecasting with machine learning and live updates.
-          </p>
-        </div>
-      </td>
+
+<td width="50%">
+  <h3 align="center">WeatherSphere</h3>
+  <div align="center">  
+    <a href="https://github.com/Geeta-Choudhary/Weather-Prediction-App.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=WeatherSphere&theme=react&hide_border=true" alt="WeatherSphere" />
+    </a>
+    <br><br>
+    <p>
+      <a href="https://github.com/Geeta-Choudhary/Weather-Prediction-App.git" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </p>
+    <p><strong>React.js, TailwindCSS, JavaScript, Python, Flask, ML</strong> – Responsive app for real-time weather forecasting with ML-powered insights, live location updates, and dark mode.</p>
+  </div>
+</td>
+   
     </tr>
     <tr>
       <td width="50%">
