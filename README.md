@@ -69,64 +69,69 @@
       <td width="50%">
         <h3 align="center">Placement Portal</h3>
         <div align="center">  
-          <!-- Replace the repo link below with your actual repo link -->
           <a href="https://github.com/Geeta-Choudhary/PlacementPortal" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=PlacementPortal&theme=react&hide_border=true" alt="Placement Portal" />
           </a>
-          <br>
+          <br><br>
           <p>
-            <strong>Python, Flask, MySQL, React.js, Vite</strong> <br>
-            A comprehensive platform to streamline placement processes for students and administrators.
+            <a href="https://github.com/Geeta-Choudhary/PlacementPortal" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+            </a>
           </p>
+          <p><strong>Python, Flask, MySQL, React.js, Vite</strong> – A platform to streamline the placement process for students, admins, and coordinators, featuring role-based dashboards and efficient management of activities.</p>
         </div>
       </td>
-
-<td width="50%">
-  <h3 align="center">WeatherSphere</h3>
-  <div align="center">  
-    <a href="https://github.com/Geeta-Choudhary/Weather-Prediction-App.git" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=WeatherSphere&theme=react&hide_border=true" alt="WeatherSphere" />
-    </a>
-    <br><br>
-    <p>
-      <a href="https://github.com/Geeta-Choudhary/Weather-Prediction-App.git" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
-      </a>
-    </p>
-    <p><strong>React.js, TailwindCSS, JavaScript, Python, Flask, ML</strong> – Responsive app for real-time weather forecasting with ML-powered insights, live location updates, and dark mode.</p>
-  </div>
-</td>
-   
+      <td width="50%">
+        <h3 align="center">WeatherSphere</h3>
+        <div align="center">  
+          <a href="https://github.com/Geeta-Choudhary/Weather-Prediction-App.git" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=Weather-Prediction-App&theme=react&hide_border=true" alt="WeatherSphere" />
+          </a>
+          <br><br>
+          <p>
+            <a href="https://github.com/Geeta-Choudhary/Weather-Prediction-App.git" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+            </a>
+          </p>
+          <p><strong>React.js, TailwindCSS, JavaScript, Python, Flask, ML</strong> – Responsive app for real-time weather forecasting with ML-powered insights, live location updates, and dark mode.</p>
+        </div>
+      </td>
     </tr>
     <tr>
       <td width="50%">
         <h3 align="center">FLEO</h3>
         <div align="center">  
-          <!-- Replace the repo link below with your actual repo link -->
           <a href="https://github.com/Geeta-Choudhary/FLEO" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=FLEO&theme=react&hide_border=true" alt="FLEO" />
           </a>
-          <br>
+          <br><br>
           <p>
-            <strong>PHP, PgSQL, Python, HTML, CSS, JavaScript</strong> <br>
-            Unified and secure platform for financial data integration and management.
+            <a href="https://github.com/Geeta-Choudhary/FLEO" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+            </a>
           </p>
+          <p><strong>PHP, PgSQL, Python, HTML, CSS, JavaScript</strong> – Secure financial management platform for data integration and analytics, designed for finance professionals.</p>
         </div>
       </td>
       <td width="50%">
-        <!-- Add another project or leave blank -->
-        <h3 align="center">Project-Optimal-pattern-Visualizer</h3>
-        <div align="center">  
-          <!-- Replace the repo link below with your actual repo link -->
-          <a href="https://github.com/Geeta-Choudhary/Project-Optimal-pattern-Visualizer-.git" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=FLEO&theme=react&hide_border=true" alt="FLEO" />
-          </a>
-          <br>
-          <p>
-            <strong>HTML, CSS, JavaScript</strong> <br>
-            Website that visualizes the optimal merge pattern algorithm for better Understanding of the concept.
-          </p>
-        </div>
+  <h3 align="center">Optimal Pattern Visualizer</h3>
+  <div align="center">  
+    <a href="https://github.com/Geeta-Choudhary/Project-Optimal-pattern-Visualizer-.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=Project-Optimal-pattern-Visualizer-&theme=react&hide_border=true" alt="Optimal Pattern Visualizer" />
+    </a>
+    <br><br>
+    <p>
+      <a href="https://github.com/Geeta-Choudhary/Project-Optimal-pattern-Visualizer-.git" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
+    </p>
+    <p>
+      <strong>JavaScript, HTML, CSS</strong> – Interactive website for visualizing the optimal merge pattern algorithm, designed to enhance understanding of algorithmic concepts through dynamic animations and user-friendly controls.
+    </p>
+  </div>
+</td>
+      <td width="50%">
+        <!-- You can add another project here or leave this cell blank -->
       </td>
     </tr>
   </table>
