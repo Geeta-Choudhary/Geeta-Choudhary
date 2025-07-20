@@ -69,12 +69,12 @@
       <td width="50%">
         <h3 align="center">Placement Portal</h3>
         <div align="center">  
-          <a href="https://github.com/Geeta-Choudhary/PlacementPortal" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=PlacementPortal&theme=react&hide_border=true" alt="Placement Portal" />
+          <a href="https://github.com/Geeta-Choudhary/Placement-Portal" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geeta-Choudhary&repo=Placement-Portal&theme=react&hide_border=true" alt="Placement Portal" />
           </a>
           <br><br>
           <p>
-            <a href="https://github.com/Geeta-Choudhary/PlacementPortal" target="_blank">
+            <a href="https://github.com/Geeta-Choudhary/Placement-Portal" target="_blank">
               <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
             </a>
           </p>
